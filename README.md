@@ -1,4 +1,4 @@
-# code-in-place-2025
+
 # 👩‍💻 Code in Place 2025 – My programming journey
 
 Welcome to my personal repository of projects for **Code in Place 2025**, an introductory programming course taught by Stanford University.  
