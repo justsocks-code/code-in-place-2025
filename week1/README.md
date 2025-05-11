@@ -60,5 +60,12 @@ This week was all about meeting Karel the Robot 🤖 and learning core programmi
 ---
 
 ## 📁 File Structure
-
+week1/
+├── warmup.py
+├── karels_home.py
+├── jigsaw_karel.py
+├── karel_2025.py
+├── piles.py
+├── beeper_path.py
+└── README.md
 
