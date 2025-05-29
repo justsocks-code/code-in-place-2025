@@ -1,7 +1,7 @@
 # Code in Place 2025 – Week 3: Intro to Python
 
 Welcome to Week 3 of my Code in Place 2025 journey!  
-This week focused on transitioning from Karel to core Python — learning how to use variables, functions, user input, and basic logic.
+This week focused on transitioning from Karel to core Python - learning how to use variables, functions, user input, and basic logic.
 
 ---
 
