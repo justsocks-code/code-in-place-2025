@@ -12,7 +12,8 @@ This course uses Python and Karel the Robot to teach the foundations of computer
 |------|--------------|--------|-------------|
 | 1    | Welcome      | ✅ Completed | [Week 1](week1/) |
 | 2    | Stepwise Refinement | ✅ Completed | [Week 2](week2/) |
-| 3–6  | Upcoming     | ⏳ In progress | *(TBD)*     |
+| 3    | Intro to Python | ✅ Completed | [Week 3](week3/) |
+| 4–6  | Upcoming     | ⏳ In progress | *(TBD)*     |
 
 ---
 
@@ -33,7 +34,16 @@ cip2025/
 │ ├── midpoint_karel.py
 │ ├── checkerboard_karel.py
 │ └── README.md
+├──week3/
+│ ├── dog_years_converter.py
+│ ├── haiku_generator.py
+│ ├── hello_name.py
+│ ├── multiply_two_numbers.py
+│ ├── n_sided_dice.py
+│ ├── sunrise_fill_in.py
+│ └── README.md
 ├── README.md
 └── LICENSE
+
 ```
 
