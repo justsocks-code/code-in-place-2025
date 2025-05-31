@@ -13,7 +13,9 @@ This course uses Python and Karel the Robot to teach the foundations of computer
 | 1    | Welcome      | ✅ Completed | [Week 1](week1/) |
 | 2    | Stepwise Refinement | ✅ Completed | [Week 2](week2/) |
 | 3    | Intro to Python | ✅ Completed | [Week 3](week3/) |
-| 4–6  | Upcoming     | ⏳ In progress | *(TBD)*     |
+| 4    | Python Control Flow | ✅ Completed | [Week 4](week4/) |
+| 5–6  | Upcoming     | ⏳ In progress | *(TBD)*     |
+| 6+   | Upcoming     | ⏳ In progress | *(TBD)*     |
 
 ---
 
@@ -41,6 +43,15 @@ cip2025/
 │ ├── multiply_two_numbers.py
 │ ├── n_sided_dice.py
 │ ├── sunrise_fill_in.py
+│ └── README.md
+├──week4/
+│ ├── double_it.py
+│ ├── hailstone.py
+│ ├── joke_bot.py
+│ ├── khansole_academy.py
+│ ├── liftoff.py
+│ ├── random_numbers.py
+│ ├── the_game_of_nimm.py
 │ └── README.md
 ├── README.md
 └── LICENSE
