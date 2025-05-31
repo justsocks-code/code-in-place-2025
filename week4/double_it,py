@@ -1,0 +1,16 @@
+# File: double_it.py
+# -----------------------------
+# Repeatedly doubles a user-provided number
+# until the result is greater than or equal to 100.
+
+def main():
+    curr_value = int(input("Enter a number: "))
+    
+    # Keep doubling the number until it reaches at least 100
+    while curr_value < 100:
+        curr_value *= 2
+        print(curr_value)
+
+# Don't edit below this line
+if __name__ == '__main__':
+    main()
